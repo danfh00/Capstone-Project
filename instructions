@@ -1,0 +1,4 @@
+To play rock paper scissors against the computer you must first enter the number of rounds you would like to play and then enter either rock, paper or scissors for each round.
+Rounds that both the user and computer enter the same option will be replayed.
+Invalid inputs from the user will be ignored and also not affect the rounds played.
+The overall winner will be revealed at the end.
